@@ -1,0 +1,40 @@
+.gold-texts {
+    font-family: 'Dancing Script', cursive;
+    color: #e8bb1f;
+    font-weight: 600;
+}
+
+.board-color {
+    background-color: #002835;
+}
+
+.board-l-color {
+    background-color: #364540;
+}
+
+.light-blue {
+    background-color: #93adbd;
+}
+
+.texts {
+    font-family: 'Smythe', cursive;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow:
+        0 1px 1px hsl(0deg 0% 0% / 0.075),
+        0 2px 2px hsl(0deg 0% 0% / 0.075),
+        0 4px 4px hsl(0deg 0% 0% / 0.075),
+        0 8px 8px hsl(0deg 0% 0% / 0.075),
+        0 16px 16px hsl(0deg 0% 0% / 0.075);
+}
+
+.fancy-texts {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 500;
+    text-align: center;
+    font-size:30px;
+}
